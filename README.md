@@ -1,1 +1,1 @@
-Covid19 Social media posts sentimenr Analysis based on the languages
+Covid19 Social media posts sentiment Analysis based on the languages
